@@ -1,6 +1,6 @@
 # MifosX
 
-Revamped codebase of community-app
+Revamped codebase of community-appasd
 
 # Getting started
 
