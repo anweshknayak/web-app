@@ -1,6 +1,6 @@
 # MifosX
 
-Revamped codebase of community-app
+Revamped codebase of community-appasd
 
 The app template is based on [HTML5](http://whatwg.org/html), [TypeScript](http://www.typescriptlang.org) and
 [Sass](http://sass-lang.com). 
